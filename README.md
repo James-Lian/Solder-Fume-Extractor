@@ -30,6 +30,8 @@ The casing for both the controller board and desk fan were designed in Fusion360
 1. Download the production files from the production folder and upload them to a manufacturer like JLCPCB
 2. Upload the code to the ESP-01S through something like the [CP2102 module](https://www.amazon.ca/dp/B07D6LLX19)
 3. After acquiring the PCB, solder all the components to the board. Ensure you leave enough spacing between the PCB and the [right-angle male headers](https://www.amazon.ca/dp/B01461DQ6S?ref=ppx_yo2ov_dt_b_fed_asin_title) for the fan's female connectors to fit.
+4. The fan's casing is in three parts. Add heatset inserts to the thickest part, and then sandwich your activated carbon filter between the two grill frames before assembling all three together with 4 M3 screws.
+5. The PCB's controller casing comes with an optional screw hole for secure placement. In my experience, it's not needed.  
 
 ## ⌨️ Code + Sensors
 The code comes with preventative measures to prevent OLED screen burn in, such as by inverting or scrolling the text, and turning off the screen at times. Do note that the ENS160+AHT21 sensor needs to be (unfortunately) powered on for at least 24 hours (ideally 48) to output accurate readings. 
