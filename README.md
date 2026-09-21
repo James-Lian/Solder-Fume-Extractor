@@ -14,7 +14,7 @@ Stardance Project Tracker (Devlogs): [https://stardance.hackclub.com/projects/36
 - ESP-01S microcontroller
 - custom 3d-printed casing
 - [12V desk fan](https://www.amazon.ca/dp/B0DPWWMNYM) which pulls solder fumes through an [activated carbon filter](https://www.amazon.ca/dp/B0DVX29MLH?ref=ppx_yo2ov_dt_b_fed_asin_title)
-- flip flop switch circuit to control the fan
+- flip flop switch circuit + MOSFET to control the fan, flyback diode to prevent MOSFET damage
 
 ## 📄 PCB & Schematic
 <img width="1169" height="678" alt="image" src="https://github.com/user-attachments/assets/75b7060a-66ea-448b-95fd-68cacbc46d01" />
