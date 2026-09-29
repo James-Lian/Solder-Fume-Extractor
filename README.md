@@ -39,6 +39,35 @@ The casing for both the controller board and desk fan were designed in Fusion360
 ## ⌨️ Code + Sensors
 The code comes with preventative measures to prevent OLED screen burn in, such as by inverting or scrolling the text, and turning off the screen at times. Do note that the ENS160+AHT21 sensor needs to be (unfortunately) powered on for at least 24 hours (ideally 48) to output accurate readings. 
 
+## 📋 BOM
+Here's a list of components for the build:
+### PCB
+| Designator | Footprint | Quantity |
+| -------- | -------- | -------- |
+| C1 680µF | CP_Radial_D10.0mm_P5.00mm | 1 |
+| C2 220µF | CP_Radial_D6.3mm_P2.50mm | 1 |
+| C3, C4 0.1µF | 0805 | 2 |
+| C5 10nF | 0805 | 1 |
+| C6 1µF | 0805 | 1 |
+| D1 1N5822 | D_DO-201AD_P15.24mm_Horizontal | 1 |
+| D2 1N4001 | D_DO-41_SOD81_P10.16mm_Horizontal | 1 |
+| D3, D4 1N4148 | D_DO-35_SOD27_P7.62mm_Horizontal | 2 |
+| J1 Barrel_Jack_Switch | XKB_DC-005-5A-2.0 | 1 |
+| J2 [Fan](https://www.amazon.ca/dp/B0DPWWMNYM) | [PinHeader_1x03_P2.54mm_Horizontal](https://www.amazon.ca/dp/B01461DQ6S?ref=ppx_yo2ov_dt_b_fed_asin_title) | 1 |
+| [Activated Carbon Filter](https://www.amazon.ca/dp/B0DVX29MLH?ref=ppx_yo2ov_dt_b_fed_asin_title) | | 1 |
+| [12V DC Power Supply](https://www.amazon.ca/dp/B09W8S3FBV) | | 1 |
+| L1 33µH | L_Bourns_SRU5016_5.2x5.2mm | 1 |
+| Q1 STP55NF06L | TO-220-3_Vertical | 1 |
+| Q2, Q3 PN2222 | TO-92_Inline | 2 |
+| R1, R4, R5, R8 10kΩ | R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal | 4 |
+| R2, R3 1kΩ | R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal | 2 |
+| R6, R7 100kΩ | R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal | 2 |
+| SW1 CherryMXSwitch | SW_Cherry_MX_1.00u_PCB | 1 |
+| U1 LM2596S-3.3 | TO-263-5_TabPin3 | 1 |
+| U2 ESP-01S | PinSocket_2x04_P2.54mm_Vertical | 1 |
+| U3 ENS160+AHT21 | PinSocket_1x08_P2.54mm_Vertical | 1 |
+| U4 0.91inch SSD1306 OLED | ER_OLEDM0.91_1x-I2C | 1 |
+
 ## 🖼️ Final Build Pictures
 <img width="608" height="641" alt="image" src="https://github.com/user-attachments/assets/ea28f5a2-ad37-47b5-874e-6ae5f620ee08" />
 <img width="604" height="716" alt="image" src="https://github.com/user-attachments/assets/57e251ee-1ac9-41ae-93cc-62ef1b975273" />
