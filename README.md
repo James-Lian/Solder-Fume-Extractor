@@ -1,5 +1,8 @@
 # 💨 Solder-Fume-Extractor
-A small hobbyist solder fume extractor complete with an air quality sensor for soldering applications. Encompasses a control board with the air quality sensor, a 12V PC fan, activated carbon filter, and custom-designed 3d-printed casing to house everything. 
+A small solder fume extractor complete with an air quality sensor for hobbyist soldering applications. Soldering can get pretty fume-y (pun intended), irritating the eyes, nose, and throat. While this extractor won't be as good as a commercial-grade fume hood, the filter will at least mitigate some of solder smoke. 
+<br>
+<br>
+Encompasses a control board with the air quality sensor, a 12V PC fan, activated carbon filter, and custom-designed 3d-printed casing to house everything. 
 <br>
 <br>
 Stardance Project Tracker (Devlogs): [https://stardance.hackclub.com/projects/36238](https://stardance.hackclub.com/projects/36238)
