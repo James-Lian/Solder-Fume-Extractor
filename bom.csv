@@ -1,25 +1,25 @@
-﻿Designator,Footprint,Quantity,Value,Link,Price per unit (USD)
-C1,CP_Radial_D10.0mm_P5.00mm,1,680µF,,
-C2,CP_Radial_D6.3mm_P2.50mm,1,220µF,,
-"C3, C4",0805,2,0.1µF,,
-C5,0805,1,10nF,,
-C6,0805,1,1µF,,
-D1,D_DO-201AD_P15.24mm_Horizontal,1,1N5822,,
-D2,D_DO-41_SOD81_P10.16mm_Horizontal,1,1N4001,,
-"D3, D4",D_DO-35_SOD27_P7.62mm_Horizontal,2,1N4148,,
-J1,XKB_DC-005-5A-2.0,1,Barrel_Jack_Switch,,
-J2,PinHeader_1x03_P2.54mm_Horizontal,1,Fan,,
+﻿Designator,Footprint,Quantity,Value,Link,Price (USD)
+C1,CP_Radial_D10.0mm_P5.00mm,1,680µF,https://www.lcsc.com/product-detail/C23777.html?s_z=n_q_GR687M035G20RR0VL4FP0,$0.48
+C2,CP_Radial_D6.3mm_P2.50mm,1,220µF,https://www.lcsc.com/product-detail/C2036.html?s_z=n_q_C2036&globalKeyword=C2036,$0.08
+"C3, C4",0805,2,0.1µF,https://www.lcsc.com/product-detail/C1711.html?s_z=n_q_C1711&globalKeyword=C1711,$0.32
+C5,0805,1,10nF,https://www.lcsc.com/product-detail/C1710.html?s_z=n_q_CL21B103KBANNNC,$0.0116
+C6,0805,1,1µF,https://www.lcsc.com/product-detail/C2907219.html?s_z=n_q_p_1%2520%25C2%25B5F%25200805,$0.34
+D1,D_DO-201AD_P15.24mm_Horizontal,1,1N5822,https://www.lcsc.com/product-detail/C2476.html?s_z=n_q_C2476&globalKeyword=C2476,$0.35
+D2,D_DO-41_SOD81_P10.16mm_Horizontal,1,1N4001,https://www.lcsc.com/product-detail/C47018536.html?s_z=n_q_C47018536&globalKeyword=C47018536,$0.08
+"D3, D4",D_DO-35_SOD27_P7.62mm_Horizontal,2,1N4148,https://www.lcsc.com/product-detail/C85057.html?s_z=n_q_C85057&globalKeyword=C85057,$0.11
+J1,XKB_DC-005-5A-2.0,1,Barrel_Jack_Switch,https://www.lcsc.com/product-detail/C381116.html?s_z=n_q_C381116&globalKeyword=C381116,$0.52
+J2,PinHeader_1x03_P2.54mm_Horizontal,1,Fan,https://www.amazon.ca/dp/B01461DQ6S?ref=ppx_yo2ov_dt_b_fed_asin_title,$2.19
 12V Desk Fan, N/A, 1, N/A, https://www.amazon.ca/dp/B0DPWWMNYM, $12.00
 Activated Carbon Filter, N/A, 1, N/A, https://amazon.ca/dp/B0DVX29MLH?ref=ppx_yo2ov_dt_b_fed_asin_title, $14.05
 12V DC Power Supply, N/A, 1, N/A, https://www.amazon.ca/dp/B09W8S3FBV?th=1, $10.20
-L1,L_Bourns_SRU5016_5.2x5.2mm,1,33µH,,
-Q1,TO-220-3_Vertical,1,STP55NF06L,,
-"Q2, Q3",TO-92_Inline,2,PN2222,,
-"R1, R4, R5, R8",R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,4,10kΩ,,
-"R2, R3",R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,2,1kΩ,,
-"R6, R7",R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,2,100kΩ,,
-SW1,SW_Cherry_MX_1.00u_PCB,1,SW_Push,,
-U1,TO-263-5_TabPin3,1,LM2596S-3.3,,
+L1,L_Bourns_SRU5016_5.2x5.2mm,1,33µH,https://www.lcsc.com/product-detail/C5760316.html?s_z=n_q_C5760316&globalKeyword=C5760316,$1.29
+Q1,TO-220-3_Vertical,1,STP55NF06L,https://www.lcsc.com/product-detail/C77582.html?s_z=n_q_C77582&globalKeyword=C77582,$2.57
+"Q2, Q3",TO-92_Inline,2,PN2222,https://www.lcsc.com/product-detail/C50229644.html?s_z=n_q_2n2222%2520TO-92,$0.05
+"R1, R4, R5, R8",R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,4,10kΩ,https://www.amazon.ca/dp/B07L851T3V?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1,$0.03
+"R2, R3",R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,2,1kΩ,https://www.amazon.ca/dp/B07L851T3V?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1,$0.01
+"R6, R7",R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,2,100kΩ,https://www.amazon.ca/dp/B07L851T3V?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1,$0.01
+SW1,SW_Cherry_MX_1.00u_PCB,1,SW_Push,https://www.amazon.ca/dp/B0GY8BWBYJ?ref=ppx_yo2ov_dt_b_fed_asin_title,$0.18
+U1,TO-263-5_TabPin3,1,LM2596S-3.3,https://www.lcsc.com/product-detail/C42421958.html?s_z=n_q_C42421958&globalKeyword=C42421958,$1.21
 U2,PinSocket_2x04_P2.54mm_Vertical,1,ESP-01S, https://www.amazon.ca/dp/B00O34AGSU, $7.04
 U3,PinSocket_1x08_P2.54mm_Vertical,1,ENS160+AHT21, https://www.amazon.ca/dp/B0DH4M3JYW,$12.66
 U4,ER_OLEDM0.91_1x-I2C,1,ER_OLEDM0.91_1x-I2C, https://www.amazon.ca/dp/B085NHJYBV?th=1 (3 units), $3.75
