@@ -40,7 +40,7 @@ The casing for both the controller board and desk fan were designed in Fusion360
 The code comes with preventative measures to prevent OLED screen burn in, such as by inverting or scrolling the text, and turning off the screen at times. Do note that the ENS160+AHT21 sensor needs to be (unfortunately) powered on for at least 24 hours (ideally 48) to output accurate readings. 
 
 ## 📋 BOM
-Here's a list of components for the build:
+Here's a list of components for the build (more complete version with links + prices in root repository):
 ### PCB
 | Designator | Footprint | Quantity |
 | -------- | -------- | -------- |
