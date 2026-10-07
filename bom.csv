@@ -10,7 +10,7 @@ D2,D_DO-41_SOD81_P10.16mm_Horizontal,1,1N4001,,
 J1,XKB_DC-005-5A-2.0,1,Barrel_Jack_Switch,,
 J2,PinHeader_1x03_P2.54mm_Horizontal,1,Fan,,
 12V Desk Fan, N/A, 1, N/A, https://www.amazon.ca/dp/B0DPWWMNYM, $12
-Activated Carbon Filter, N/A, 1, N/A, amazon.ca/dp/B0DVX29MLH?ref=ppx_yo2ov_dt_b_fed_asin_title, $14.05
+Activated Carbon Filter, N/A, 1, N/A, https://amazon.ca/dp/B0DVX29MLH?ref=ppx_yo2ov_dt_b_fed_asin_title, $14.05
 12V DC Power Supply, N/A, 1, N/A, https://www.amazon.ca/dp/B09W8S3FBV?th=1, $10.20
 L1,L_Bourns_SRU5016_5.2x5.2mm,1,33µH,,
 Q1,TO-220-3_Vertical,1,STP55NF06L,,
