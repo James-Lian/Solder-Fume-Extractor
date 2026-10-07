@@ -1,4 +1,4 @@
-﻿Designator,Footprint,Quantity,Value,Link,Price (USD),
+﻿Designator,Footprint,Quantity,Value,Link,Price (USD)
 C1,CP_Radial_D10.0mm_P5.00mm,1,680µF,,,
 C2,CP_Radial_D6.3mm_P2.50mm,1,220µF,,,
 "C3, C4",0805,2,0.1µF,,,
